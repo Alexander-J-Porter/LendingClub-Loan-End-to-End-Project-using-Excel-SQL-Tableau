@@ -11,7 +11,7 @@ Data cleaning steps:
 3: Manage NULL values and remove unnecessary rows/columns
 */
 
-USE loan_data_database
+USE loan_data_database -- select the database we named after importing the raw CSV file
 
 --------------------------------------------------------------------------------------
 /*
@@ -391,7 +391,7 @@ ORDER BY id
  A raw subset for the 2018 year was cleaned in Part 1 of the Project
 
  Now I will perform exploratory data analysis on the cleaned subset
- */
+*/
 
 USE loan_data_database
 
@@ -626,3 +626,21 @@ ON
 	bad_loans.grade = good_loans.grade
 ORDER BY 
 	Grade ASC
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+/* Part 3: Tableau Dashboard for Lending Club Project
+ https://public.tableau.com/app/profile/alexander.porter3156/viz/2018LoanReport/Summary
+*/
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+/* Part 4: Presentation for Lending Club Project
+ https://github.com/Alexander-J-Porter/LendingClub-Loan-End-to-End-Project-using-Excel-SQL-Tableau/blob/main/LendingClub_Loan_Presentation.pdf
+*/
