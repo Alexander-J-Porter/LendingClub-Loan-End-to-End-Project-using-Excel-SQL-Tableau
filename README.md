@@ -7,7 +7,7 @@ Part 4 is the presentation, accessible from **`LendingClub_Loan_Presentation.pdf
 **For Parts 1, 2 and 4: GitHub does not provide previews of PDF files therefore they must be downloaded and viewed on your local device.**
 
 This project uses a subset (57,160 loans from year 2018) of a real-world multi-year dataset sourced from LendingClub available on Kaggle, accessible from **`loan_data_2018.csv`**. Dataset field definitions are accessible from **`LendingClub_Dataset_Information.pdf`**. The original complete dataset is linked in the project PDF file.
-All project resources including the raw (dirty) dataset, contingecy table spreadsheet, and dashboard graphics are accessible from `Human_Resources_archive.zip`.
+All project resources including the raw (dirty) dataset, contingecy table spreadsheet, and dashboard graphics are accessible from `LendingClub_Loan_archive.zip`.
 
 #### **Assumptions:**
 * The problem statement is defined under the assumption that the 57,160 loan sample represents all of LendingClub's loans for the entire year of 2018. This assumption is placed to minimize the size of the subset as the approach and methodologies used would remain consistent even if the size of the subset were augmented further.
