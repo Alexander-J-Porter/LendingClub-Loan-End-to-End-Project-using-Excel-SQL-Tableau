@@ -1,4 +1,4 @@
-### **NOTE:** The problem statement for this project is defined below. All of the parts **(including SQL output)** are accessible from one PDF file in this repository which is **`LendingClub_Loan_Project.pdf`**.
+### **NOTE:** The problem statement for this project is defined below. All of the parts **(including SQL output)** are accessible from one PDF file in this repository which is **`LendingClub_Loan_Project.pdf`**..
 
 Parts 1 and 2 utilize SQL and involve data wrangling and exploratory analysis. The code-only file with comments is accessible from `LendingClub_Loan_Project.sql`.
 Part 3 is the dashboard **(designed for non-mobile devices)** created with Tableau, accessible from the URL in the PDF file.
