@@ -6,16 +6,16 @@ Part 4 is the presentation, accessible from **`LendingClub_Loan_Presentation.pdf
 
 **For Parts 1, 2 and 4: GitHub does not provide previews of PDF files therefore they must be downloaded and viewed on your local device.**
 
-This project uses a subset (57,160 loans from year 2018) of a real-world multi-year dataset sourced from LendingClub available on Kaggle, accessible from **`loan_data_2018.csv`**. Dataset field definitions are accessible from **`LendingClub_Dataset_Information.pdf`**. The original complete dataset is linked in the project PDF file.
+This project uses a subset (57,160 loans from year 2018) of a real-world multi-year dataset sourced from Lending Club available on Kaggle, accessible from **`loan_data_2018.csv`**. Dataset field definitions are accessible from **`LendingClub_Dataset_Information.pdf`**. The original complete dataset is linked in the project PDF file.
 All project resources including the raw (dirty) dataset, contingecy table spreadsheet, and dashboard graphics are accessible from `LendingClub_Loan_archive.zip`.
 
 #### **Assumptions:**
-* The problem statement is defined under the assumption that the 57,160 loan sample represents all of LendingClub's loans for the entire year of 2018. This assumption is placed to minimize the size of the subset as the approach and methodologies used would remain consistent even if the size of the subset were augmented further.
-* For the purposes of this project, LendingClub is to be interpreted in the context of a traditional lending institution (like a bank), rather than as a peer-to-peer lending platform (as it is in the real world).
+* The problem statement is defined under the assumption that the 57,160 loan sample represents all of Lending Club's loans for the entire year of 2018. This assumption is placed to minimize the size of the subset as the approach and methodologies used would remain consistent even if the size of the subset were augmented further.
+* For the purposes of this project, Lending Club is to be interpreted in the context of a traditional lending institution (like a bank), rather than as a peer-to-peer lending platform (as it is in the real world).
 
-# **Problem Statement: Analysis of LendingClub Portfolio Performance in 2018**
+# **Problem Statement: Analysis of Lending Club Portfolio Performance in 2018**
 
-**Background:** The performance of an institution's loan portfolio is pivotal in understanding its financial health and strategic positioning. In 2018, LendingClub issued a total of 57,160 loans, and by thoroughly analyzing this dataset, we can uncover critical insights related to lending activities, borrower profiles, and prevailing trends. This comprehensive analysis will encompass various key performance indicators (KPIs), such as total loan applications, funded amounts, and repayment behavior. This information will enable informed data-driven decisions that will enhance operational efficiency and profitability.
+**Background:** The performance of an institution's loan portfolio is pivotal in understanding its financial health and strategic positioning. In 2018, Lending Club issued a total of 57,160 loans, and by thoroughly analyzing this dataset, we can uncover critical insights related to lending activities, borrower profiles, and prevailing trends. This comprehensive analysis will encompass various key performance indicators (KPIs), such as total loan applications, funded amounts, and repayment behavior. This information will enable informed data-driven decisions that will enhance operational efficiency and profitability.
 
 **Objectives:**
 
@@ -25,7 +25,7 @@ All project resources including the raw (dirty) dataset, contingecy table spread
 1. **Regional Performance Analysis**: Conduct geographic analyses of lending activities by state to identify regional disparities in lending performance and opportunities for growth in underserved areas.
 1. **Financial Health Metrics**: Analyze the average interest rate and average debt-to-income (DTI) ratio to gauge the cost of loans and the financial stability of borrowers.
 
-**Expected Outcome:** By the end of this analysis, LendingClub will:
+**Expected Outcome:** By the end of this analysis, Lending Club will:
 
 * Achieve a clear understanding of lending trends and performance metrics, facilitating targeted marketing and loan offerings.
 * Develop comprehensive borrower profiles to enhance their ability to evaluate loan applications and reduce default rates.
