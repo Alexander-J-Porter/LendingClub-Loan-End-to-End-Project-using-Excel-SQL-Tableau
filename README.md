@@ -1,13 +1,14 @@
-### **NOTE:** The problem statement for this project is defined below. All of the parts **(including SQL output)** are accessible from one PDF file in this repository which is **`LendingClub_Loan_Project.pdf`**.
+### **NOTE:** All of the parts **(including SQL output)** are accessible from one PDF file in this repository which is: **`LendingClub_Loan_Project.pdf`**
 
-Parts 1 and 2 utilize SQL and involve data wrangling and exploratory analysis. The code-only file with comments is accessible from `LendingClub_Loan_Project.sql`.
-Part 3 is the dashboard **(designed for non-mobile devices)** created with Tableau, accessible from the URL in the PDF file.
-Part 4 is the presentation, accessible from **`LendingClub_Loan_Presentation.pdf`**. All tables used in the presentation were created with Excel.
+Parts 1 and 2 utilize SQL and involve data wrangling and exploratory analysis. 
+Part 3 is the dashboard created with Tableau, accessible from the URL in the PDF file.
+Part 4 is the presentation, accessible from: **`LendingClub_Loan_Presentation.pdf`**
 
-**For Parts 1, 2 and 4: GitHub does not provide previews of PDF files therefore they must be downloaded and viewed on your local device.**
+This project uses a subset (57,160 loans from year 2018) of a real-world multi-year dataset sourced from Lending Club available on Kaggle, accessible from: **`loan_data_2018.csv`** 
 
-This project uses a subset (57,160 loans from year 2018) of a real-world multi-year dataset sourced from Lending Club available on Kaggle, accessible from **`loan_data_2018.csv`**. Dataset field definitions are accessible from **`LendingClub_Dataset_Information.pdf`**. The original complete dataset is linked in the project PDF file.
-All project resources including the raw (dirty) dataset, contingecy table spreadsheet, and dashboard graphics are accessible from `LendingClub_Loan_archive.zip`.
+Dataset field definitions are accessible from: **`LendingClub_Dataset_Information.pdf`** 
+
+All project resources are accessible from: `LendingClub_Loan_archive.zip`
 
 #### **Assumptions:**
 * The problem statement is defined under the assumption that the 57,160 loan sample represents all of Lending Club's loans for the entire year of 2018. This assumption is placed to minimize the size of the subset as the approach and methodologies used would remain consistent even if the size of the subset were augmented further.
